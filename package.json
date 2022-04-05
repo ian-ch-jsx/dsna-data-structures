@@ -1,0 +1,23 @@
+{
+  "name": "dsna-data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ian-ch-jsx/dsna-data-structures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ian-ch-jsx/dsna-data-structures/issues"
+  },
+  "homepage": "https://github.com/ian-ch-jsx/dsna-data-structures#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
