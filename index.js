@@ -44,3 +44,4 @@ B.add(C);
 
 // this still returns left and right as null. we looked this code up on stackoverflow, etc, and it makes sense there AFAIK but I'm not sure how it determines
 // left value vs right
+// and now I think we were working on the wrong one, which might explain why I'm lost.
